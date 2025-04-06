@@ -1,1 +1,11 @@
 # Git ignore file to exclude clutter files
+# Python virtual environment
+venv/
+
+# Bytecode files
+__pycache__/
+*.pyc
+
+# Environment variables file
+.env
+
